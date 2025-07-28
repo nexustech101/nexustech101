@@ -1,4 +1,4 @@
-# 💫 About Me
+# 👨‍💻 About Me
 
 Hi there! I'm a full-stack developer, systems architect, and independent researcher in computing and language. My work centers on developing intelligent, scalable systems that integrate web technologies, applied machine learning, and advanced data modeling. I'm particularly interested in structured language processing, automation frameworks, and systems-level software design.
 
