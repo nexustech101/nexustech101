@@ -81,15 +81,4 @@ Hi there! I'm a full-stack developer, systems architect, and independent researc
 
 ---
 
-
-## 🧠 Projects & Interests
-
-* 🔍 Word frequency and lexical analysis tools
-* 🧠 Computational linguistics and knowledge graph development
-* 🌐 Browser automation and web scraping frameworks
-* 🧮 Data structure optimization and algorithm engineering
-* 🎓 Educational technology and open learning systems
-
----
-
-> "Simplicity is the soul of efficiency." – Austin Freeman
+> "Simplicity is the ultimate sophistication." – Leonardo da Vinci'
