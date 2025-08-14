@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Systems Engineer & Technical Architect
+# 🚀 Full-Stack DevOps Engineer
 
 **Building intelligent, scalable systems at the intersection of web technologies, machine learning, and DevOps**
 
