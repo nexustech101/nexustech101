@@ -8,14 +8,14 @@ I'm a full-stack engineer with expertise spanning modern web development, cloud 
 
 ## 🎯 Core Competencies
 
-**Systems Architecture & Engineering**
+**Systems Architecture & Software Engineering**
 - Designing and implementing microservices architectures with event-driven patterns
 - Building high-performance, memory-efficient data structures and algorithms
-- Developing intelligent automation frameworks and developer tooling
-- Creating scalable data pipelines for linguistic and semantic processing
+- Developing automation frameworks and developer tooling
+- Creating scalable data pipelines for NLP & Sentiment Analaysis
 
 **Full-Stack Development**
-- Modern frontend architectures using React, Next.js, and advanced state management
+- Modern frontend using React, Next.js, and quick rendering techniques
 - Backend systems with Node.js, Express, and Python-based microservices
 - Real-time applications with WebSocket implementations and event streaming
 - 3D visualization and computational graphics with Three.js and WebGL
@@ -25,6 +25,14 @@ I'm a full-stack engineer with expertise spanning modern web development, cloud 
 - CI/CD pipeline design and implementation across multiple cloud providers
 - Infrastructure as Code using Terraform and CloudFormation
 - Monitoring, logging, and observability with modern toolchains
+
+  **Distributed Systems & Load Balancing**
+- Designing and implementing horizontal scaling architectures across multiple nodes
+- Building efficient resource sharding strategies for database and application layers
+- Load balancer configuration and traffic distribution optimization (Nginx, HAProxy, cloud-native)
+- Network partitioning and fault-tolerant distributed system design
+- Auto-scaling infrastructure with dynamic resource allocation and cost optimization
+- Cross-datacenter replication and geo-distributed system orchestration
 
 ---
 
