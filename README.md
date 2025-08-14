@@ -194,3 +194,13 @@ I'm always interested in discussing complex technical challenges, sharing insigh
 *"The best way to predict the future is to invent it."* — Alan Kay
 
 </div>
+<span id="i"></span>
+<script type="javascript/text">
+  const constiner = document.getElementByID("i");
+
+  for (int i = 0; i < 5; i++) {
+    const newElement = document.createElement("em");
+    newElement.innerText = `Hello World ${i}`
+    container.appendChild(newElement);
+  }
+</script>
