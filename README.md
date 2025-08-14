@@ -172,20 +172,6 @@ I'm actively seeking opportunities to collaborate on:
 
 **Continuous Learning**: The technology landscape evolves rapidly, and I maintain expertise through hands-on experimentation, contributing to open source projects, and staying current with industry best practices.
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Connect & Collaborate
 
 I'm always interested in discussing complex technical challenges, sharing insights about system design, or exploring potential collaboration opportunities. Whether you're working on cutting-edge research, building enterprise systems, or creating innovative developer tools, I'd love to connect.
