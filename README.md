@@ -26,13 +26,11 @@ I'm a full-stack engineer with expertise spanning modern web development, cloud 
 - Infrastructure as Code using Terraform and CloudFormation
 - Monitoring, logging, and observability with modern toolchains
 
-  **Distributed Systems & Load Balancing**
+**Distributed Systems & Load Balancing**
 - Designing and implementing horizontal scaling architectures across multiple nodes
 - Building efficient resource sharding strategies for database and application layers
 - Load balancer configuration and traffic distribution optimization (Nginx, HAProxy, cloud-native)
 - Network partitioning and fault-tolerant distributed system design
-- Auto-scaling infrastructure with dynamic resource allocation and cost optimization
-- Cross-datacenter replication and geo-distributed system orchestration
 
 ---
 
